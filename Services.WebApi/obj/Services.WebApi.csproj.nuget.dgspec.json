@@ -1,0 +1,1054 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Damian\\CursoArquitecturaNET\\Services.WebApi\\Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj",
+        "projectName": "Application.DTO",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj",
+        "projectName": "Application.Interface",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\Application.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\Application.Main.csproj",
+        "projectName": "Application.Main",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\Application.Main.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj",
+        "projectName": "Application.Validator",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Cross.Logging\\Cross.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Cross.Logging\\Cross.Logging.csproj",
+        "projectName": "Cross.Logging",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Cross.Logging\\Cross.Logging.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Cross.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj",
+        "projectName": "Cross.Common",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj",
+        "projectName": "Infraestructure.Data",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Dominio.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj",
+        "projectName": "Domain.Interface",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj",
+        "projectName": "Domain.Entity",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Infraestructura.Repository\\Infraestructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Infraestructura.Repository\\Infraestructure.Repository.csproj",
+        "projectName": "Infraestructure.Repository",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Infraestructura.Repository\\Infraestructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Infraestructura.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj",
+        "projectName": "Infraestructure.Interface",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Services.WebApi\\Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Services.WebApi\\Services.WebApi.csproj",
+        "projectName": "Services.WebApi",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Services.WebApi\\Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Services.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Interface\\Application.Interface.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\Application.Main.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\Application.Main.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Cross.Logging\\Cross.Logging.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Cross.Logging\\Cross.Logging.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Data\\Infraestructure.Data.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Dominio.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Core\\Domain.Core.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Dominio.Interface\\Domain.Interface.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Infraestructura.Repository\\Infraestructure.Repository.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Infraestructura.Repository\\Infraestructure.Repository.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Interface\\Infraestructure.Interface.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\Cross.Mapper.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\Cross.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\Cross.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\Cross.Mapper.csproj",
+        "projectName": "Cross.Mapper",
+        "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\Cross.Mapper.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Damian\\CursoArquitecturaNET\\Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

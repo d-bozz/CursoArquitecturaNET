@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dominio.Core/1.0.0": {
+        "dependencies": {
+          "Dominio.Entity": "1.0.0",
+          "Dominio.Interface": "1.0.0",
+          "Infraestructura.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Dominio.Core.dll": {}
+        }
+      },
+      "Dominio.Entity/1.0.0": {
+        "runtime": {
+          "Dominio.Entity.dll": {}
+        }
+      },
+      "Dominio.Interface/1.0.0": {
+        "dependencies": {
+          "Dominio.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Dominio.Interface.dll": {}
+        }
+      },
+      "Infraestructura.Interface/1.0.0": {
+        "dependencies": {
+          "Dominio.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Infraestructura.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dominio.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dominio.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infraestructura.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

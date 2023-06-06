@@ -1,0 +1,12 @@
+C:\Damian\CursoArquitecturaNET\Entity\bin\Debug\net6.0\Domain.Entity.deps.json
+C:\Damian\CursoArquitecturaNET\Entity\bin\Debug\net6.0\Domain.Entity.dll
+C:\Damian\CursoArquitecturaNET\Entity\bin\Debug\net6.0\Domain.Entity.pdb
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.dll
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\refint\Domain.Entity.dll
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\Domain.Entity.pdb
+C:\Damian\CursoArquitecturaNET\Entity\obj\Debug\net6.0\ref\Domain.Entity.dll

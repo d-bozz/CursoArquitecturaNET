@@ -1,0 +1,15 @@
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\bin\Debug\net6.0\Dominio.Interface.deps.json
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\bin\Debug\net6.0\Dominio.Interface.dll
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\bin\Debug\net6.0\Dominio.Interface.pdb
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\bin\Debug\net6.0\Dominio.Entity.dll
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\bin\Debug\net6.0\Dominio.Entity.pdb
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.csproj.CopyComplete
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.dll
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\refint\Dominio.Interface.dll
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\Dominio.Interface.pdb
+C:\Damian\CursoArquitecturaNET\Dominio.Interface\obj\Debug\net6.0\ref\Dominio.Interface.dll

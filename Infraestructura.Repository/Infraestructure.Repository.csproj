@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CursoArquitecturaNET.Transversal.Common\Cross.Common.csproj" />
+    <ProjectReference Include="..\Data\Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Interface\Infraestructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

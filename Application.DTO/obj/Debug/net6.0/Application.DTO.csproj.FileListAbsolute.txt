@@ -1,0 +1,12 @@
+C:\Damian\CursoArquitecturaNET\Application.DTO\bin\Debug\net6.0\Application.DTO.deps.json
+C:\Damian\CursoArquitecturaNET\Application.DTO\bin\Debug\net6.0\Application.DTO.dll
+C:\Damian\CursoArquitecturaNET\Application.DTO\bin\Debug\net6.0\Application.DTO.pdb
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.dll
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\refint\Application.DTO.dll
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\Application.DTO.pdb
+C:\Damian\CursoArquitecturaNET\Application.DTO\obj\Debug\net6.0\ref\Application.DTO.dll

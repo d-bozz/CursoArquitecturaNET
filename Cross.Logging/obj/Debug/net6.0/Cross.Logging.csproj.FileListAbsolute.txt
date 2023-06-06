@@ -1,0 +1,15 @@
+C:\Damian\CursoArquitecturaNET\Cross.Logging\bin\Debug\net6.0\Cross.Logging.deps.json
+C:\Damian\CursoArquitecturaNET\Cross.Logging\bin\Debug\net6.0\Cross.Logging.dll
+C:\Damian\CursoArquitecturaNET\Cross.Logging\bin\Debug\net6.0\Cross.Logging.pdb
+C:\Damian\CursoArquitecturaNET\Cross.Logging\bin\Debug\net6.0\Cross.Common.dll
+C:\Damian\CursoArquitecturaNET\Cross.Logging\bin\Debug\net6.0\Cross.Common.pdb
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.csproj.CopyComplete
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.dll
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\refint\Cross.Logging.dll
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\Cross.Logging.pdb
+C:\Damian\CursoArquitecturaNET\Cross.Logging\obj\Debug\net6.0\ref\Cross.Logging.dll

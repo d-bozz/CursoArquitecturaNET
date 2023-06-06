@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZYFeSdhHiV42aMLRb0z01e0NcudAcC+1fJItb09l2hUAEWgazCDe7A0rC8Y3YVX/uX78QL/eb3XrBDvUR5R2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Damian\\CursoArquitecturaNET\\Transversal.Mapper\\Cross.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damian.boz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\damian.boz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

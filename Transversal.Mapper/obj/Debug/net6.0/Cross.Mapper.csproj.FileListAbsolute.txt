@@ -1,0 +1,17 @@
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Cross.Mapper.deps.json
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Cross.Mapper.dll
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Cross.Mapper.pdb
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Application.DTO.dll
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Domain.Entity.dll
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Application.DTO.pdb
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\bin\Debug\net6.0\Domain.Entity.pdb
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.csproj.CopyComplete
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.dll
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\refint\Cross.Mapper.dll
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\Cross.Mapper.pdb
+C:\Damian\CursoArquitecturaNET\Transversal.Mapper\obj\Debug\net6.0\ref\Cross.Mapper.dll

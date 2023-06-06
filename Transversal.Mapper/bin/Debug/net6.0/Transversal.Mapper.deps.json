@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Transversal.Mapper/1.0.0": {
+        "runtime": {
+          "Transversal.Mapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transversal.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

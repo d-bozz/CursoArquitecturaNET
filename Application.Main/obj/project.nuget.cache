@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w80lS2Quutht5jLhZ8ym64oBwwNFcW3toF/cjfCwpnpp5VqFpHjZnn4XdCItwTm78hWqgX8rnE0smLhtspVc3g==",
+  "success": true,
+  "projectFilePath": "C:\\Damian\\CursoArquitecturaNET\\Application.Main\\Application.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damian.boz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\damian.boz\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\damian.boz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

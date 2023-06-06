@@ -1,0 +1,12 @@
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\bin\Debug\net6.0\Cross.Common.deps.json
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\bin\Debug\net6.0\Cross.Common.dll
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\bin\Debug\net6.0\Cross.Common.pdb
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.dll
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\refint\Cross.Common.dll
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\Cross.Common.pdb
+C:\Damian\CursoArquitecturaNET\CursoArquitecturaNET.Transversal.Common\obj\Debug\net6.0\ref\Cross.Common.dll

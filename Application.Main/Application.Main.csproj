@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.DTO\Application.DTO.csproj" />
+    <ProjectReference Include="..\Application.Interface\Application.Interface.csproj" />
+    <ProjectReference Include="..\Application.Validator\Application.Validator.csproj" />
+    <ProjectReference Include="..\CursoArquitecturaNET.Transversal.Common\Cross.Common.csproj" />
+    <ProjectReference Include="..\Dominio.Interface\Domain.Interface.csproj" />
+    <ProjectReference Include="..\Entity\Domain.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

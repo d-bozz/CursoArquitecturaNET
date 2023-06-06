@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="6.0.2" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="6.0.5" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.5" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="6.0.5" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.30.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.DTO\Application.DTO.csproj" />
+    <ProjectReference Include="..\Application.Interface\Application.Interface.csproj" />
+    <ProjectReference Include="..\Application.Main\Application.Main.csproj" />
+    <ProjectReference Include="..\Application.Validator\Application.Validator.csproj" />
+    <ProjectReference Include="..\Cross.Logging\Cross.Logging.csproj" />
+    <ProjectReference Include="..\CursoArquitecturaNET.Transversal.Common\Cross.Common.csproj" />
+    <ProjectReference Include="..\Data\Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Dominio.Core\Domain.Core.csproj" />
+    <ProjectReference Include="..\Dominio.Interface\Domain.Interface.csproj" />
+    <ProjectReference Include="..\Entity\Domain.Entity.csproj" />
+    <ProjectReference Include="..\Infraestructura.Repository\Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\Interface\Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Transversal.Mapper\Cross.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

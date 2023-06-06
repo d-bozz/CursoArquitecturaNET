@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXINB+i/cWoN/rJ/LIKU4LWzR5mwa6rEaiakf5952U6S3xuewXJPCtkOhnOAPj35lpESrJ4BIO2wlq2INeyp4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Damian\\CursoArquitecturaNET\\Application.Validator\\Application.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damian.boz\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

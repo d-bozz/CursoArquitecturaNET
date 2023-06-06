@@ -1,0 +1,15 @@
+C:\Damian\CursoArquitecturaNET\Interface\bin\Debug\net6.0\Infraestructura.Interface.deps.json
+C:\Damian\CursoArquitecturaNET\Interface\bin\Debug\net6.0\Infraestructura.Interface.dll
+C:\Damian\CursoArquitecturaNET\Interface\bin\Debug\net6.0\Infraestructura.Interface.pdb
+C:\Damian\CursoArquitecturaNET\Interface\bin\Debug\net6.0\Dominio.Entity.dll
+C:\Damian\CursoArquitecturaNET\Interface\bin\Debug\net6.0\Dominio.Entity.pdb
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.csproj.CopyComplete
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.dll
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\refint\Infraestructura.Interface.dll
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\Infraestructura.Interface.pdb
+C:\Damian\CursoArquitecturaNET\Interface\obj\Debug\net6.0\ref\Infraestructura.Interface.dll

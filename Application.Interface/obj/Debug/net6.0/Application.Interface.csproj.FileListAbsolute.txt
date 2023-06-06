@@ -1,0 +1,17 @@
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Application.Interface.deps.json
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Application.Interface.dll
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Application.Interface.pdb
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Application.DTO.dll
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Cross.Common.dll
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Application.DTO.pdb
+C:\Damian\CursoArquitecturaNET\Application.Interface\bin\Debug\net6.0\Cross.Common.pdb
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.csproj.AssemblyReference.cache
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.AssemblyInfoInputs.cache
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.AssemblyInfo.cs
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.csproj.CoreCompileInputs.cache
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.csproj.CopyComplete
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.dll
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\refint\Application.Interface.dll
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\Application.Interface.pdb
+C:\Damian\CursoArquitecturaNET\Application.Interface\obj\Debug\net6.0\ref\Application.Interface.dll

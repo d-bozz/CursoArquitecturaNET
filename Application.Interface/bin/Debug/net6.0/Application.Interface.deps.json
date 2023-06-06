@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Application.Interface/1.0.0": {
+        "dependencies": {
+          "Application.DTO": "1.0.0",
+          "Cross.Common": "1.0.0"
+        },
+        "runtime": {
+          "Application.Interface.dll": {}
+        }
+      },
+      "Application.DTO/1.0.0": {
+        "runtime": {
+          "Application.DTO.dll": {}
+        }
+      },
+      "Cross.Common/1.0.0": {
+        "runtime": {
+          "Cross.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cross.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

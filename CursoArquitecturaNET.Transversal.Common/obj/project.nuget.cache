@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RbMuptpUe30T6cqdxAKFjq1sSUVcz4KTZtXD6ICkGQN6BQDJUIcqOpRPyeKp1YpLIIfFl8CApy3es9Nw4BeidA==",
+  "success": true,
+  "projectFilePath": "C:\\Damian\\CursoArquitecturaNET\\CursoArquitecturaNET.Transversal.Common\\Cross.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damian.boz\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

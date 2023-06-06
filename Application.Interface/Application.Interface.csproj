@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.DTO\Application.DTO.csproj" />
+    <ProjectReference Include="..\CursoArquitecturaNET.Transversal.Common\Cross.Common.csproj" />
+  </ItemGroup>
+
+</Project>
